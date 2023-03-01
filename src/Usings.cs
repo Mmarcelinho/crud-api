@@ -1,0 +1,12 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Diagnostics;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Logging;
+global using AspNetCore.WebApi.Models;
+global using AspNetCore.WebApi.Data;
+global using AspNetCore.WebApi.ViewsModel.TodoViewModel;
